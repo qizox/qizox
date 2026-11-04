@@ -6,7 +6,7 @@ I build and run **[spite](https://spite.rest)**, a multipurpose Discord bot for 
 
 #### spite
 
-- Antinuke, moderation with case logs, logging, VoiceMaster, music, levels, tickets and 1,200+ commands
+- Antinuke, moderation with case logs, logging, VoiceMaster, music, levels, tickets and 1,400+ commands
 - Python and discord.py, with PostgreSQL (asyncpg), Lavalink for audio and Pillow/ImageMagick for image commands
 - Around 88,000 lines across 78 modules, self-hosted on a Linux VPS
 - Site and docs built with Vite and Tailwind, served from Cloudflare Pages and Workers
